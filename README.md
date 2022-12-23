@@ -1,1 +1,1 @@
-My CV
+https://OlegMitin.github.io/rsschool-cv/
