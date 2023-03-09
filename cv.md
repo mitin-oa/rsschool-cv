@@ -22,13 +22,13 @@
 ### Data Science, Machine Learning, Scikitlearn, Pandas, Dask, Keras, Airflow, Docker.
 ### Web Development, JavaScript, Python, Node.js, HTML, CSS.
 
-##COURCES AND CERTIFICATES
+## COURCES AND CERTIFICATES
 ### Cources Web Development Bootcamp, Udemy.
 ### Cources JavaScript/Front-end, RS School.
 ### Cources Machine Learning, Skillbox.
-###Certificate «Math & Python for data analysis», Certificate «Learning on marked data», Certificate «Searching for structure in data», Certificate «Data Analysis Interpretation», Certificate «Applied Data Analysis Problems».
+### Certificate «Math & Python for data analysis», Certificate «Learning on marked data», Certificate «Searching for structure in data», Certificate «Data Analysis Interpretation», Certificate «Applied Data Analysis Problems».
 
-##CODE
+## CODE
 ### function mergeArrays(arr1, arr2) {
 ###   return Array.from(new Set(arr1.concat(arr2).sort((a,b) => a - b)));
 ### }
