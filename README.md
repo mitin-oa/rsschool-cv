@@ -1,3 +1,3 @@
 # rsschool-cv
 My CV
-https://mitin-oa.github.io/rsschool-cv/cv
+https://mitin-oa.github.io/rsschool-cv/
